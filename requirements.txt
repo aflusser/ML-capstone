@@ -7,7 +7,6 @@ seaborn>=0.11
 scikit-learn>=1.0
 tensorflow>=2.6
 
-# Jupyter / notebook runtime
-jupyter>=1.0
-notebook>=6.0
+# Jupyter / notebook runtime (as you requested, both on the same line)
+jupyterlab>=3.0 notebook>=6.0
 ipykernel>=6.0
