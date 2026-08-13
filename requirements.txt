@@ -8,5 +8,5 @@ scikit-learn>=1.0
 tensorflow>=2.6
 
 # Jupyter / notebook runtime
-notebook>=6.0
-ipykernel>=6.0
+jupyter>=1.0
+ipykernel>=6
