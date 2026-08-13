@@ -1,2 +1,2 @@
 # ML-problem-capstone
-In this capstone assignment, I follow the machine learning life cycle and implement a supervised learning models, along with a neural network, to solve a predictive problem on an Airbnb dataset.
+In this capstone assignment, I follow the machine learning life cycle and implement a supervised learning model, along with a neural network, to solve a predictive problem on an Airbnb dataset.
